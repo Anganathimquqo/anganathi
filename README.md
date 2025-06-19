@@ -1,5 +1,6 @@
-Hi, i am Anganathi 
-About Me:
+Hi, i am Anganathi
+
+About Me: 
 🔭 Aspiring IT professional with foundational knowledge in web development and programming. Passionate about building user-friendly digital solutions and growing in the tech industry. Currently expanding skills in front-end development and cybersecurity, with a strong commitment to continuous learning. 
 
 
